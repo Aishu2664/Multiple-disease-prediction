@@ -207,7 +207,7 @@ elif rad == "About us":
         st.write("""Diabetes Dataset - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database """)
         st.write("Heart Disease Dataset - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset ")
         st.write(' Parkinsons Data Set - https://www.kaggle.com/datasets/nidaguler/parkinsons-data-set')
-        st.write("For read and download code plz visite my github link \n https://github.com/LalitMahale/Multiple-Disease-Prediction-System.git")
+        st.write("For read and download code plz visite my github link \n https://github.com/Aishu2664/Multiple-disease-prediction \n https://github.com/AvgMi/webapp")
         
     else:
         st.write("""Hi, we Akshay & Aishwarya, have done our Post Graduate Diploma in Big Data Analytics from CDAC (act's) Chennai """)
